@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SAP\General]
+"BrowserControlFallbackConfiguration"="https://raw.githubusercontent.com/RESULTO-CONSULTORIA-SL/assets/main/sap/BrowserControlFallback.xml"
